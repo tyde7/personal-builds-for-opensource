@@ -1,5 +1,5 @@
 name: BuildWebhook
-on: []
+on: workflow_dispatch
 jobs:
   build:
     strategy:
