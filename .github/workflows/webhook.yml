@@ -1,4 +1,5 @@
 name: BuildWebhook
+on: []
 jobs:
   build:
     strategy:
